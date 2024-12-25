@@ -6,6 +6,7 @@
 - **Resources**: 
   - [Python for Beginners](https://www.python.org/about/gettingstarted/)
   - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+  - [Specifi course](https://pyflo.net/)
 
 ## Month 2: Data Structures and Algorithms
 - **Topics**: Arrays, linked lists, stacks, queues, hash tables, sorting algorithms, searching algorithms.
