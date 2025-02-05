@@ -7,13 +7,14 @@
   - [Python for Beginners](https://www.python.org/about/gettingstarted/)
   - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
   - [Specifi course](https://pyflo.net/)
-
+ 
 ## Month 2: Data Structures and Algorithms
 - **Topics**: Arrays, linked lists, stacks, queues, hash tables, sorting algorithms, searching algorithms.
 - **Language**: Python
 - **Resources**: 
   - [GeeksforGeeks Data Structures](https://www.geeksforgeeks.org/data-structures/)
   - [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms)
+  -[W3shool](https://www.w3schools.com/dsa/dsa_algo_bubblesort.php)
 
 ## Month 3: Object-Oriented Programming (OOP)
 - **Topics**: Classes, objects, inheritance, polymorphism, encapsulation, abstraction.
@@ -53,7 +54,7 @@
 
 ## Month 8: Version Control with Git and GitHub
 - **Topics**: Git basics, branching, merging, pull requests, collaborating on GitHub.
-- **Language**: N/A
+- **Language**: N/A Making my own pr   oject
 - **Resources**: 
   - [Pro Git Book](https://git-scm.com/book/en/v2)
   - [GitHub Guides](https://guides.github.com/)
