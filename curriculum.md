@@ -54,7 +54,7 @@
 
 ## Month 8: Version Control with Git and GitHub
 - **Topics**: Git basics, branching, merging, pull requests, collaborating on GitHub.
-- **Language**: N/A Making my own pr   oject
+- **Language**: N/A Making my own project
 - **Resources**: 
   - [Pro Git Book](https://git-scm.com/book/en/v2)
   - [GitHub Guides](https://guides.github.com/)

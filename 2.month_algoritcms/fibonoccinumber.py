@@ -1,12 +1,41 @@
-num1 = 0
-num2 = 1
+#last value index
+""" temp = [1,12,3,4,4,5,12,15,13,11]
+temp.reverse()
+index = len(temp) - temp.index(12) - 1
+print(index) """
 
-print(num1)
-print(num2)
-for x in range(8):
-     num1 = num1+num2
-     num2 = num2 + num1
-     print(num1)
-     print(num2)
-     
-#fibonakī (Fibonacci) cipars veidojas no 2 iepriekšējo ciparu summas. Piemēram: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, u.t.t 
+array = [4, 7, 9, 7, 2, 7]
+
+# Find all indices of the value 7
+indices = []
+start = 0
+
+while True:
+    try:
+          index = array.index(7, start)
+          indices.append(index)
+          start = index + 1
+    except:
+         break
+    
+""" #pedejais index
+indices = []
+start = 0
+while True:
+    try:
+          index = array.index(1, start)
+          indices.append(index)
+          start = index + 1
+    except:
+         break
+
+# o lites
+indicesO = []
+start = 0
+while True:
+    try:
+          index = array.index(0, start)
+          indicesO.append(index)
+          start = index + 1
+    except:
+         break """

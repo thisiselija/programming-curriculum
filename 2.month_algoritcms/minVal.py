@@ -1,7 +1,8 @@
-array = [7, 21, 9, 4, 1]
-minVal = array[0]
-for x in array:
-    if x < minVal:
-        minVal = x
-        
-print(minVal)
+#bublle sorting
+array = [64, 34, 25, 5, 22,22, 11, 11, 90, 12]
+
+for x in range(len(array)):
+    for i in range(len(array)):
+        if array[x]<array[i]:
+            array[x], array[i]= array[i], array[x]
+print(array)
